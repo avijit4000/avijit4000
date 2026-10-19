@@ -1,10 +1,10 @@
 <!-- GitHub Profile README · avijit4000 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=220&section=header&text=Avijit%20Biswas&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%C2%B7%20AI%20%2F%20LLM%20Engineering%20%C2%B7%20Cloud&descAlignY=56&descSize=20" alt="Avijit Biswas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=220&section=header&text=Avijit%20Biswas&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20AI%2FML%20Engineer%20%C2%B7%20Data%20Science%20%C2%B7%20Management&descAlignY=56&descSize=18" alt="Avijit Biswas" />
 
 <a href="https://github.com/avijit4000">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=820&lines=Master+of+Science+in+Data+Science;Indian+Institute+of+Technology%E2%80%93Ropar+(IIT%E2%80%93Ropar);Indian+Institute+of+Management%E2%80%93Amritsar+(IIM%E2%80%93Amritsar);Building+LLM%2C+MCP+%26+A2A+agents+that+ship+to+production;Turning+messy+data+into+decisions+with+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=820&lines=Senior+Full+Stack+AI%2FML+Engineer;Data+Science+%C2%B7+Management+%C2%B7+Cloud;Master+of+Science+in+Data+Science;Indian+Institute+of+Technology%E2%80%93Ropar+(IIT%E2%80%93Ropar);Indian+Institute+of+Management%E2%80%93Amritsar+(IIM%E2%80%93Amritsar);Building+LLM%2C+MCP+%26+A2A+agents+on+AWS+%C2%B7+Azure+%C2%B7+GCP" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/github/followers/avijit4000?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
 <img src="https://img.shields.io/badge/Bengaluru-India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Master%20of%20Science-Data%20Science-8B5CF6?style=for-the-badge" alt="Master of Science in Data Science" />
+<img src="https://img.shields.io/badge/Senior%20Full%20Stack-AI%2FML%20Engineer-6366F1?style=for-the-badge" alt="Senior Full Stack AI/ML Engineer" />
 
 <br/><br/>
 
@@ -39,8 +40,11 @@
 
 ```python
 class AvijitBiswas:
+    """Senior Full Stack AI/ML Engineer - data science, management and cloud."""
+
     def __init__(self) -> None:
-        self.role      = "Data Scientist  ->  AI / LLM Engineer"
+        self.role      = "Senior Full Stack AI/ML Engineer"
+        self.domains   = ["Data Science", "AI / ML", "LLM & Agents", "Management"]
         self.education = (
             "Master of Science in Data Science @ "
             "Indian Institute of Technology–Ropar (IIT–Ropar) & "
@@ -48,19 +52,22 @@ class AvijitBiswas:
         )
         self.location  = "Bengaluru, India"
         self.website   = "https://www.avibiswas.in/"
-        self.focus     = ["LLM Agents", "MCP", "A2A", "RAG", "MLOps", "Cloud"]
-        self.stack     = ["Python", "PyTorch", "TensorFlow", "Azure", "AWS", "Docker"]
+        self.cloud     = ["AWS", "Azure", "GCP"]
+        self.focus     = ["LLM Agents", "MCP", "A2A", "RAG", "MLOps", "Full-Stack"]
+        self.stack     = ["Python", "PyTorch", "FastAPI", "React", "Docker", "Kubernetes"]
         self.currently = "designing multi-agent systems on top of MCP & A2A"
 
     def philosophy(self) -> str:
         return "Understand the data, ship the model, measure the impact."
 ```
 
-- **What I do:** end-to-end data science and AI engineering — from exploratory analysis and statistical modelling to LLM applications, agentic systems and cloud deployment.
-- **How I work:** notebook-first experimentation, then hardening into clean, containerised, deployable services.
+- **What I do:** senior full-stack AI/ML engineering — data science and statistical modelling, LLM and agentic systems, plus the APIs, interfaces and infrastructure that carry them into production.
+- **Cloud:** AWS, Azure and GCP — containerised workloads, CI/CD and MLOps.
+- **Management:** IIM Amritsar-trained — framing models by business impact, cost and product decisions, not just accuracy.
+- **How I work:** notebook-first experimentation, then hardening into clean, containerised, testable services.
 - **Currently exploring:** tool-using agents (MCP, A2A), retrieval quality evaluation, and LLMOps on Azure.
 - **Open to:** collaboration on AI, data science and cloud-native projects — and always up for a good dataset.
-- **Ask me about:** Python, machine learning, LLM apps, Azure/AWS deployments.
+- **Ask me about:** Python, machine learning, LLM apps, full-stack delivery, AWS/Azure/GCP deployments.
 
 ---
 
@@ -167,23 +174,22 @@ class AvijitBiswas:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avijit4000&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avijit4000&theme=tokyonight" alt="Profile summary" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avijit4000&theme=tokyonight" alt="Repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avijit4000&theme=tokyonight" alt="Most committed languages" />
 
 </div>
 
 ---
 
-## Trophies
+## Contribution Activity
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=avijit4000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-
-</div>
 
 <!-- Snake animation is generated by .github/workflows/snake.yml -->
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avijit4000/avijit4000/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avijit4000/avijit4000/output/github-contribution-grid-snake.svg" />
