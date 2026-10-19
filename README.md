@@ -16,13 +16,20 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/avijit-biswas4000"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.kaggle.com/avijitbiswas01"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://x.com/avijit4000"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.youtube.com/channel/UC6fg85xVi_5dimISaNOIhzA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://stackoverflow.com/users/19789991/avijit-biswas"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-<a href="https://leetcode.com/avijit4000/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.avibiswas.in/"><img src="https://img.shields.io/badge/Website-avibiswas.in-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/avijit-biswas4000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:avijit4000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/917908023338"><img src="https://img.shields.io/badge/WhatsApp-%2B91_79080_23338-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
+<br/>
+
+<a href="https://www.kaggle.com/avijit4000"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://x.com/avijit4000"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.youtube.com/@AvijitBiswasgood"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/avijit_biswas01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/avijitbiswas01/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://leetcode.com/u/avijit4000/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://stackoverflow.com/users/19789991/avijit-biswas"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 
 </div>
 
@@ -36,6 +43,7 @@ class AvijitBiswas:
         self.role      = "Data Scientist  ->  AI / LLM Engineer"
         self.education = "M.Sc. Data Science @ IIT Ropar x IIM Amritsar"
         self.location  = "Bengaluru, India"
+        self.website   = "https://www.avibiswas.in/"
         self.focus     = ["LLM Agents", "MCP", "RAG", "MLOps", "Cloud"]
         self.stack     = ["Python", "PyTorch", "TensorFlow", "Azure", "AWS", "Docker"]
         self.currently = "designing multi-agent systems on top of MCP"
@@ -179,12 +187,32 @@ class AvijitBiswas:
 
 ---
 
+## Contact
+
+| Channel | Reach me at |
+| :--- | :--- |
+| **Website** | [avibiswas.in](https://www.avibiswas.in/) |
+| **Email** | [avijit4000@gmail.com](mailto:avijit4000@gmail.com) |
+| **Mobile / WhatsApp** | [+91 79080 23338](https://wa.me/917908023338) |
+| **LinkedIn** | [in/avijit-biswas4000](https://www.linkedin.com/in/avijit-biswas4000/) |
+| **Kaggle** | [kaggle.com/avijit4000](https://www.kaggle.com/avijit4000) |
+| **LeetCode** | [leetcode.com/u/avijit4000](https://leetcode.com/u/avijit4000/) |
+| **X (Twitter)** | [@avijit4000](https://x.com/avijit4000) |
+| **Instagram** | [@avijit_biswas01](https://www.instagram.com/avijit_biswas01/) |
+| **Facebook** | [avijitbiswas01](https://www.facebook.com/avijitbiswas01/) |
+| **YouTube** | [@AvijitBiswasgood](https://www.youtube.com/@AvijitBiswasgood) |
+| **Stack Overflow** | [avijit-biswas](https://stackoverflow.com/users/19789991/avijit-biswas) |
+
+---
+
 <div align="center">
 
 ### Let's build something data-driven
 
-<a href="https://linkedin.com/in/avijit-biswas4000"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://www.avibiswas.in/"><img src="https://img.shields.io/badge/Visit%20my-Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/avijit-biswas4000/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:avijit4000@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://wa.me/917908023338"><img src="https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://www.buymeacoffee.com/Avijit"><img src="https://img.shields.io/badge/Buy%20me%20a-coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 
 <br/>
