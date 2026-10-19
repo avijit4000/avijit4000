@@ -46,7 +46,7 @@ class AvijitBiswas:
         self.role      = "Senior Full Stack AI/ML Engineer"
         self.domains   = ["Data Science", "AI / ML", "LLM & Agents", "Management"]
         self.education = (
-            "Master of Science in Data Science @ "
+            "Master of Science in Data Science @ Management"
             "Indian Institute of Technology–Ropar (IIT–Ropar) & "
             "Indian Institute of Management–Amritsar (IIM–Amritsar)"
         )
