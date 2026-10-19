@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=220&section=header&text=Avijit%20Biswas&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%C2%B7%20AI%20%2F%20LLM%20Engineering%20%C2%B7%20Cloud&descAlignY=56&descSize=20" alt="Avijit Biswas" />
 
 <a href="https://github.com/avijit4000">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=Masters+in+Data+Science+%40+IIT+Ropar+%26+IIM+Amritsar;Building+LLM+%26+MCP+agents+that+ship+to+production;Turning+messy+data+into+decisions+with+Python;Open+to+collaboration+on+AI%2C+Data+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=6366F1&center=true&vCenter=true&width=820&lines=Master+of+Science+in+Data+Science;Indian+Institute+of+Technology%E2%80%93Ropar+(IIT%E2%80%93Ropar);Indian+Institute+of+Management%E2%80%93Amritsar+(IIM%E2%80%93Amritsar);Building+LLM%2C+MCP+%26+A2A+agents+that+ship+to+production;Turning+messy+data+into+decisions+with+Python" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=avijit4000&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/avijit4000?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
 <img src="https://img.shields.io/badge/Bengaluru-India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/M.Sc.%20Data%20Science-IIT%20Ropar%20%C3%97%20IIM%20Amritsar-8B5CF6?style=for-the-badge" alt="Education" />
+<img src="https://img.shields.io/badge/Master%20of%20Science-Data%20Science-8B5CF6?style=for-the-badge" alt="Master of Science in Data Science" />
 
 <br/><br/>
 
@@ -41,12 +41,16 @@
 class AvijitBiswas:
     def __init__(self) -> None:
         self.role      = "Data Scientist  ->  AI / LLM Engineer"
-        self.education = "M.Sc. Data Science @ IIT Ropar x IIM Amritsar"
+        self.education = (
+            "Master of Science in Data Science @ "
+            "Indian Institute of Technology–Ropar (IIT–Ropar) & "
+            "Indian Institute of Management–Amritsar (IIM–Amritsar)"
+        )
         self.location  = "Bengaluru, India"
         self.website   = "https://www.avibiswas.in/"
-        self.focus     = ["LLM Agents", "MCP", "RAG", "MLOps", "Cloud"]
+        self.focus     = ["LLM Agents", "MCP", "A2A", "RAG", "MLOps", "Cloud"]
         self.stack     = ["Python", "PyTorch", "TensorFlow", "Azure", "AWS", "Docker"]
-        self.currently = "designing multi-agent systems on top of MCP"
+        self.currently = "designing multi-agent systems on top of MCP & A2A"
 
     def philosophy(self) -> str:
         return "Understand the data, ship the model, measure the impact."
@@ -54,7 +58,7 @@ class AvijitBiswas:
 
 - **What I do:** end-to-end data science and AI engineering — from exploratory analysis and statistical modelling to LLM applications, agentic systems and cloud deployment.
 - **How I work:** notebook-first experimentation, then hardening into clean, containerised, deployable services.
-- **Currently exploring:** tool-using agents (MCP), retrieval quality evaluation, and LLMOps on Azure.
+- **Currently exploring:** tool-using agents (MCP, A2A), retrieval quality evaluation, and LLMOps on Azure.
 - **Open to:** collaboration on AI, data science and cloud-native projects — and always up for a good dataset.
 - **Ask me about:** Python, machine learning, LLM apps, Azure/AWS deployments.
 
@@ -77,9 +81,24 @@ class AvijitBiswas:
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" alt="seaborn" />
 <img src="https://img.shields.io/badge/Statsmodels-4C72B0?style=flat-square" alt="statsmodels" />
 <img src="https://img.shields.io/badge/PyMC-Bayesian-2C4B8E?style=flat-square" alt="PyMC" />
+
+**Generative AI, LLMs & Agents**
+
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Anthropic Claude" />
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/Mistral%20AI-FA520F?style=flat-square&logo=mistralai&logoColor=white" alt="Mistral AI" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LlamaIndex-6C5CE7?style=flat-square" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/A2A-Agent2Agent-6366F1?style=flat-square" alt="A2A Agent2Agent" />
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-8B5CF6?style=flat-square" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/vLLM-1F2937?style=flat-square" alt="vLLM" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 **Cloud, DevOps & Databases**
@@ -179,7 +198,7 @@ class AvijitBiswas:
 
 | Programme | Institution | Focus |
 | :--- | :--- | :--- |
-| **M.Sc. Data Science** | IIT Ropar & IIM Amritsar | Statistics, machine learning, optimisation, business analytics |
+| **Master of Science (Data Science)** | Indian Institute of Technology–Ropar (IIT–Ropar)<br/>Indian Institute of Management–Amritsar (IIM–Amritsar) | Statistics, machine learning, optimisation, business analytics |
 
 <!-- Optional: add certifications here, one row each, e.g.
 | Azure AI Engineer Associate | Microsoft | 2024 |
