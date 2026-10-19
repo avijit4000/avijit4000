@@ -1,6 +1,8 @@
 <!-- GitHub Profile README · avijit4000 -->
 <div align="center">
 
+<img src="assets/logo.png" width="56" alt="Avijit Biswas - AB monogram logo" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=220&section=header&text=Avijit%20Biswas&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20AI%2FML%20Engineer%20%C2%B7%20Data%20Science%20%C2%B7%20Management&descAlignY=56&descSize=18" alt="Avijit Biswas" />
 
 <a href="https://github.com/avijit4000">
@@ -11,9 +13,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=avijit4000&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/avijit4000?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
-<img src="https://img.shields.io/badge/Bengaluru-India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Location-Bengaluru%20%C2%B7%20Kolkata%20%C2%B7%20Taiwan-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Master%20of%20Science-Data%20Science-8B5CF6?style=for-the-badge" alt="Master of Science in Data Science" />
 <img src="https://img.shields.io/badge/Senior%20Full%20Stack-AI%2FML%20Engineer-6366F1?style=for-the-badge" alt="Senior Full Stack AI/ML Engineer" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Worldwide-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="Open to work worldwide" />
+<img src="https://img.shields.io/badge/Work%20Mode-Remote%20%7C%20Hybrid%20%7C%20On--site-0EA5E9?style=for-the-badge" alt="Remote, hybrid or on-site" />
 
 <br/><br/>
 
@@ -29,6 +33,7 @@
 <a href="https://www.youtube.com/@AvijitBiswasgood"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://www.instagram.com/avijit_biswas01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.facebook.com/avijitbiswas01/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://discord.com/users/1062715908788854915"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://leetcode.com/u/avijit4000/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://stackoverflow.com/users/19789991/avijit-biswas"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 
@@ -43,19 +48,21 @@ class AvijitBiswas:
     """Senior Full Stack AI/ML Engineer - data science, management and cloud."""
 
     def __init__(self) -> None:
-        self.role      = "Senior Full Stack AI/ML Engineer"
-        self.domains   = ["Data Science", "AI / ML", "LLM & Agents", "Management"]
-        self.education = (
-            "Master of Science in Data Science @ Management"
+        self.role         = "Senior Full Stack AI/ML Engineer"
+        self.domains      = ["Data Science", "AI / ML", "LLM & Agents", "Management"]
+        self.education    = (
+            "Master of Science in Data Science @ "
             "Indian Institute of Technology–Ropar (IIT–Ropar) & "
             "Indian Institute of Management–Amritsar (IIM–Amritsar)"
         )
-        self.location  = "Bengaluru, India"
-        self.website   = "https://www.avibiswas.in/"
-        self.cloud     = ["AWS", "Azure", "GCP"]
-        self.focus     = ["LLM Agents", "MCP", "A2A", "RAG", "MLOps", "Full-Stack"]
-        self.stack     = ["Python", "PyTorch", "FastAPI", "React", "Docker", "Kubernetes"]
-        self.currently = "designing multi-agent systems on top of MCP & A2A"
+        self.locations    = ["Bengaluru", "Kolkata", "India", "Taiwan"]
+        self.website      = "https://www.avibiswas.in/"
+        self.projects     = ["USA", "Sweden"]
+        self.cloud        = ["AWS", "Azure", "GCP"]
+        self.focus        = ["LLM Agents", "MCP", "A2A", "RAG", "MLOps", "Full-Stack"]
+        self.stack        = ["Python", "PyTorch", "FastAPI", "React", "Docker", "Kubernetes"]
+        self.availability = "Worldwide - remote, hybrid or on-site"
+        self.currently    = "designing multi-agent systems on top of MCP & A2A"
 
     def philosophy(self) -> str:
         return "Understand the data, ship the model, measure the impact."
@@ -63,10 +70,12 @@ class AvijitBiswas:
 
 - **What I do:** senior full-stack AI/ML engineering — data science and statistical modelling, LLM and agentic systems, plus the APIs, interfaces and infrastructure that carry them into production.
 - **Cloud:** AWS, Azure and GCP — containerised workloads, CI/CD and MLOps.
+- **Based in:** Bengaluru · Kolkata · Taiwan.
+- **Global delivery:** projects delivered for teams in the **USA** and **Sweden** — remote collaboration across time zones.
+- **Availability:** open to work **worldwide** — remote, hybrid or on-site, whichever the team needs.
 - **Management:** IIM Amritsar-trained — framing models by business impact, cost and product decisions, not just accuracy.
 - **How I work:** notebook-first experimentation, then hardening into clean, containerised, testable services.
 - **Currently exploring:** tool-using agents (MCP, A2A), retrieval quality evaluation, and LLMOps on Azure.
-- **Open to:** collaboration on AI, data science and cloud-native projects — and always up for a good dataset.
 - **Ask me about:** Python, machine learning, LLM apps, full-stack delivery, AWS/Azure/GCP deployments.
 
 ---
@@ -212,6 +221,16 @@ class AvijitBiswas:
 
 ---
 
+## Open to Opportunities
+
+| Topic | Details |
+| :--- | :--- |
+| **Work mode** | Remote · Hybrid · On-site |
+| **Availability** | Worldwide — any location or time zone |
+| **Project experience** | USA · Sweden · India |
+
+---
+
 ## Contact
 
 | Channel | Reach me at |
@@ -225,6 +244,7 @@ class AvijitBiswas:
 | **X (Twitter)** | [@avijit4000](https://x.com/avijit4000) |
 | **Instagram** | [@avijit_biswas01](https://www.instagram.com/avijit_biswas01/) |
 | **Facebook** | [avijitbiswas01](https://www.facebook.com/avijitbiswas01/) |
+| **Discord** | [discord.com/users/1062715908788854915](https://discord.com/users/1062715908788854915) |
 | **YouTube** | [@AvijitBiswasgood](https://www.youtube.com/@AvijitBiswasgood) |
 | **Stack Overflow** | [avijit-biswas](https://stackoverflow.com/users/19789991/avijit-biswas) |
 
